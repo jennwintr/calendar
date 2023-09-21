@@ -58,3 +58,9 @@ body {
     transition: all 0.3s ease-in-out;
   }
   
+  .clear-time {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+  }
+  
